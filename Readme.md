@@ -1,11 +1,11 @@
-##### How it works
+# How it works
 
 - Program renders fractals (Mandelbrot/Julia)
 - Option for standard grayscale output or random colors
 - Option for setting image height, width, min/max real/imaginary values (Mandelbrot), max iterations (Mandelbrot/Julia), and real/imaginary offsets (Julia)
 - Outputs a `.ppm` image file
 
-##### Function Overviews
+# Function Overviews
 
 **mandelbrot**
 _Params_: Scaled Real Value, Scaled Imaginary value, Max Iterations
